@@ -1,3 +1,3 @@
-print("addition:"2+2)
-print("subtraction:"5-3)
-print("multiplication:"8*6)
+print("addition:",2+2)
+print("subtraction:",5-3)
+print("multiplication:",8*6)
